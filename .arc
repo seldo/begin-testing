@@ -1,12 +1,10 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+bird-m7z
+
+@static
 
 @http
-get  /todos
+get /todos
 post /todos
 post /todos/delete
 
